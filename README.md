@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Teaposion
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C/C++、Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 my E-mail 885168583@qq.com
 
 <!---
